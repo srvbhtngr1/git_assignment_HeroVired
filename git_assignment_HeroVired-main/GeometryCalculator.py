@@ -1,6 +1,7 @@
 import math
 
 class GeometryCalculator:
+    # This class provides methods to calculate the area of different geometric shapes.
 
     def calculate_circle_area(self, radius):
         return math.pi * radius ** 2

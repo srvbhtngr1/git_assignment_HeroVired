@@ -1,7 +1,7 @@
 import math
 
 class Calculator:
-
+# This class provides basic arithmetic operations and a method to calculate the square root of a number.
     def add(self, a, b):
         return a + b
 
