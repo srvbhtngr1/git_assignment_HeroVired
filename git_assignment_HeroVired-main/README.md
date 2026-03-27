@@ -23,7 +23,7 @@ Enhance the CalculatorPlus Python application by:
      - Division
 
 3. **Initial Release (v1.0)**
-   - Merged `dev` branch into `main`
+   - Merged `dev` branch into `main` branch
    - Tagged release: `v1.0`
 
 4. **Feature Development - Square Root**
